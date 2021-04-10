@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TCustomer>
+  <customer> 
+	<ID>00001</ID>
+    <name>DKL</name>  
+    <sex>male</sex>  
+    <level>0</level>
+    <Password>123</Password>  
+  </customer>  
+</TCustomer>

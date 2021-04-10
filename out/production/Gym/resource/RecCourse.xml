@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TRecCourse>
+ <RecCourse> 
+	<ID>100</ID>
+	<type>yoga</type>	
+	<des>A yoga course</des> 
+	<name>myYoga</name>
+	<dir>E:\\Ayoga.txt</dir>
+	<createDate>2021-04-08</createDate>
+	<difficulty>easy</difficulty>
+ </RecCourse>
+ <RecCourse> 
+	<ID>101</ID>
+	<type>yoga</type>	
+	<des>AA yoga course</des> 
+	<name>myYoga1</name>
+	<dir>E:\\Ayoga1.txt</dir>
+	<createDate>2021-04-07</createDate>
+	<difficulty>easy</difficulty>
+ </RecCourse>
+</TRecCourse>
